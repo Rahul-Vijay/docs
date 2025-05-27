@@ -4,10 +4,10 @@
   "name": "convogenie ai",
   "colors": {
     "primary": "#6e6eff",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#6e6eff",
+    "dark": "#6e6eff"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.ico",
   "navigation": {
     "tabs": [
       {
