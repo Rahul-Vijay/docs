@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Guides",
+            "pages": [
+              "guides/abilities"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
