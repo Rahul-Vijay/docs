@@ -72,8 +72,8 @@
     }
   },
   "logo": {
-    "light": "/logo/White_Final.png",
-    "dark": "/logo/Black-Logo.png"
+    "light": "/logo/Black-Logo.png",
+    "dark": "/logo/White_Final.png"
   },
   "styling": {
       "fonts": {
