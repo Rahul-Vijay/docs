@@ -76,17 +76,17 @@
     "dark": "/logo/Black-Logo.png"
   },
   "styling": {
-    "fonts": {
-      "heading": {
-        "family": "Figtree",
-        "weight": 700
-      },
-      "body": {
-        "family": "Figtree",
-        "weight": 400
+      "fonts": {
+        "heading": {
+          "family": "Figtree",
+          "weight": 700
+        },
+        "body": {
+          "family": "Figtree",
+          "weight": 400
+        }
       }
-    }
-},
+  },
   "navbar": {
     "links": [
       {
