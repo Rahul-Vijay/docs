@@ -24,7 +24,10 @@
           {
             "group": "Concepts",
             "pages": [
-              "guides/abilities"
+              "guides/abilities",
+              "guides/prompts",
+              "guides/knowledge-base",
+              "guides/playground"
             ]
           },
           {
