@@ -25,12 +25,15 @@
             ]
           },
           {
-            "group": "Concepts",
+            "group": "Features",
             "pages": [
+              "guides/dashboard",
+              "guides/unified-inbox",
               "guides/abilities",
               "guides/prompts",
               "guides/knowledge-base",
-              "guides/playground"
+              "guides/playground",
+              "guides/integrations"
             ]
           },
           {
