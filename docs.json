@@ -1,117 +1,102 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "convogenie ai",
-  "colors": {
-    "primary": "#6e6eff",
-    "light": "#6e6eff",
-    "dark": "#6e6eff"
-  },
-  "favicon": "/favicon.ico",
-  "icons": {
-    "library": "lucide"
-  },
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Documentation",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
+    "$schema": "https://mintlify.com/docs.json",
+    "theme": "mint",
+    "name": "convogenie ai",
+    "colors": {
+        "primary": "#6e6eff",
+        "light": "#6e6eff",
+        "dark": "#6e6eff"
+    },
+    "favicon": "/favicon.ico",
+    "icons": {
+        "library": "lucide"
+    },
+    "navigation": {
+        "tabs": [
+            {
+                "tab": "Documentation",
+                "groups": [
+                    {
+                        "group": "Get Started",
+                        "pages": [
+                            "index",
+                            "quickstart",
+                            "development"
+                        ]
+                    },
+                    {
+                        "group": "Features",
+                        "pages": [
+                            "guides/dashboard",
+                            "guides/unified-inbox",
+                            "guides/abilities",
+                            "guides/prompts",
+                            "guides/knowledge-base",
+                            "guides/playground",
+                            "guides/integrations"
+                        ]
+                    },
+                    {
+                        "group": "Essentials",
+                        "pages": [
+                            "essentials/markdown",
+                            "essentials/code",
+                            "essentials/images",
+                            "essentials/settings",
+                            "essentials/navigation",
+                            "essentials/reusable-snippets"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "global": {
+            "anchors": [
+                {
+                    "anchor": "Platform",
+                    "href": "https://platform.convogenie.ai/ui-v2/dashboard",
+                    "icon": "dashboard"
+                },
+                {
+                    "anchor": "Blog",
+                    "href": "https://convogenie.ai/blog",
+                    "icon": "newspaper"
+                }
             ]
-          },
-          {
-            "group": "Features",
-            "pages": [
-              "guides/dashboard",
-              "guides/unified-inbox",
-              "guides/abilities",
-              "guides/prompts",
-              "guides/knowledge-base",
-              "guides/playground",
-              "guides/integrations"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Blog",
-          "href": "https://convogenie.ai/blog",
-          "icon": "newspaper"
         }
-      ]
-    }
-  },
-  "logo": {
-    "light": "/logo/Black-Logo.png",
-    "dark": "/logo/White_Final.png"
-  },
-  "styling": {
-      "fonts": {
-        "heading": {
-          "family": "Figtree",
-          "weight": 700
-        },
-        "body": {
-          "family": "Figtree",
-          "weight": 400
+    },
+    "logo": {
+        "light": "/logo/Black-Logo.png",
+        "dark": "/logo/White_Final.png"
+    },
+    "styling": {
+        "fonts": {
+            "heading": {
+                "family": "Figtree",
+                "weight": 700
+            },
+            "body": {
+                "family": "Figtree",
+                "weight": 400
+            }
         }
-      }
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:ullas.m@convogenie.ai"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://platform.convogenie.ai"
+    },
+    "navbar": {
+        "links": [
+            {
+                "label": "Support",
+                "href": "mailto:ullas.m@convogenie.ai"
+            }
+        ],
+        "primary": {
+            "type": "button",
+            "label": "Dashboard",
+            "href": "https://platform.convogenie.ai"
+        }
+    },
+    "footer": {
+        "socials": {
+            "linkedin": "https://www.linkedin.com/company/convogenie"
+        }
     }
-  },
-  "footer": {
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/convogenie"
-    }
-  }
 }
