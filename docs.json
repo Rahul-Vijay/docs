@@ -19,9 +19,7 @@
                     {
                         "group": "Get Started",
                         "pages": [
-                            "index",
-                            "quickstart",
-                            "development"
+                            "index"
                         ]
                     },
                     {
@@ -35,28 +33,12 @@
                             "guides/playground",
                             "guides/integrations"
                         ]
-                    },
-                    {
-                        "group": "Essentials",
-                        "pages": [
-                            "essentials/markdown",
-                            "essentials/code",
-                            "essentials/images",
-                            "essentials/settings",
-                            "essentials/navigation",
-                            "essentials/reusable-snippets"
-                        ]
                     }
                 ]
             }
         ],
         "global": {
             "anchors": [
-                {
-                    "anchor": "Platform",
-                    "href": "https://platform.convogenie.ai/ui-v2/dashboard",
-                    "icon": "dashboard"
-                },
                 {
                     "anchor": "Blog",
                     "href": "https://convogenie.ai/blog",
